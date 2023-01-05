@@ -143,6 +143,9 @@ To run the project, execute the following command:
   rails server
 ```
 
+### Link to React Frontend
+
+[React Frontend](https://github.com/Ukaypromise/hello-rails-front-end/pull/1)
 <!-- ### Run tests
 
 To run tests, run the following command:

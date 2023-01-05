@@ -63,7 +63,7 @@ This project is to implement a connection between a Ruby on Rails back-end and R
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stacks <a name="tech-stack"></a>
 
 <!-- > Describe the tech stack and include only the relevant sections that apply to your project. -->
 

@@ -143,7 +143,7 @@ To run the project, execute the following command:
 
 ### Link to React Frontend
 
-[React Frontend](https://github.com/MrOmachi/hello-rails-back-end.git)
+[React Frontend](https://github.com/MrOmachi/hello-react-front-end.git)
 
 <!-- ### Run tests
 

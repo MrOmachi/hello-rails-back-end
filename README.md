@@ -94,7 +94,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- LIVE DEMO -->
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="23" height="20"/> React Frontend <a name="react-frontend"></a>
-- Here is the Frontend part of the project [Hello React Frontend](https://github.com/michael-duke/Hello-Rails-Frontend)
+- Here is the Frontend part of the project [Hello React Frontend](https://github.com/MrOmachi/hello-react-front-end.git)
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link] :smiley: not yet available
